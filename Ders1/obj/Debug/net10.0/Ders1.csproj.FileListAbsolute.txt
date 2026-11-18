@@ -1,0 +1,14 @@
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Ders1/bin/Debug/net10.0/Ders1
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Ders1/bin/Debug/net10.0/Ders1.deps.json
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Ders1/bin/Debug/net10.0/Ders1.runtimeconfig.json
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Ders1/bin/Debug/net10.0/Ders1.dll
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Ders1/bin/Debug/net10.0/Ders1.pdb
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Ders1/obj/Debug/net10.0/Ders1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Ders1/obj/Debug/net10.0/Ders1.AssemblyInfoInputs.cache
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Ders1/obj/Debug/net10.0/Ders1.AssemblyInfo.cs
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Ders1/obj/Debug/net10.0/Ders1.csproj.CoreCompileInputs.cache
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Ders1/obj/Debug/net10.0/Ders1.dll
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Ders1/obj/Debug/net10.0/refint/Ders1.dll
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Ders1/obj/Debug/net10.0/Ders1.pdb
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Ders1/obj/Debug/net10.0/Ders1.genruntimeconfig.cache
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Ders1/obj/Debug/net10.0/ref/Ders1.dll

@@ -1,0 +1,14 @@
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Odev1/bin/Debug/net10.0/Odev1
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Odev1/bin/Debug/net10.0/Odev1.deps.json
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Odev1/bin/Debug/net10.0/Odev1.runtimeconfig.json
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Odev1/bin/Debug/net10.0/Odev1.dll
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Odev1/bin/Debug/net10.0/Odev1.pdb
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Odev1/obj/Debug/net10.0/Odev1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Odev1/obj/Debug/net10.0/Odev1.AssemblyInfoInputs.cache
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Odev1/obj/Debug/net10.0/Odev1.AssemblyInfo.cs
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Odev1/obj/Debug/net10.0/Odev1.csproj.CoreCompileInputs.cache
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Odev1/obj/Debug/net10.0/Odev1.dll
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Odev1/obj/Debug/net10.0/refint/Odev1.dll
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Odev1/obj/Debug/net10.0/Odev1.pdb
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Odev1/obj/Debug/net10.0/Odev1.genruntimeconfig.cache
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Odev1/obj/Debug/net10.0/ref/Odev1.dll

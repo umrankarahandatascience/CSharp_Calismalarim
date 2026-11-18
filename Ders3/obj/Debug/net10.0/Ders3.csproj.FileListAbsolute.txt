@@ -1,0 +1,14 @@
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Ders3/obj/Debug/net10.0/Ders3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Ders3/obj/Debug/net10.0/Ders3.AssemblyInfoInputs.cache
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Ders3/obj/Debug/net10.0/Ders3.AssemblyInfo.cs
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Ders3/obj/Debug/net10.0/Ders3.csproj.CoreCompileInputs.cache
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Ders3/bin/Debug/net10.0/Ders3
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Ders3/bin/Debug/net10.0/Ders3.deps.json
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Ders3/bin/Debug/net10.0/Ders3.runtimeconfig.json
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Ders3/bin/Debug/net10.0/Ders3.dll
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Ders3/bin/Debug/net10.0/Ders3.pdb
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Ders3/obj/Debug/net10.0/Ders3.dll
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Ders3/obj/Debug/net10.0/refint/Ders3.dll
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Ders3/obj/Debug/net10.0/Ders3.pdb
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Ders3/obj/Debug/net10.0/Ders3.genruntimeconfig.cache
+/Users/umrankarahan/Desktop/CSharp_Calismalarim/Ders3/obj/Debug/net10.0/ref/Ders3.dll
